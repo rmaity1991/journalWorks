@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "Matrix.C": "cpp",
+        "LinearRegression.C": "cpp",
+        "NaiveBayes.C": "cpp",
+        "NaiveBayes copy.C": "cpp",
+        "NaiveBayes_copy.C": "cpp",
+        "NaiveBayes1.0.1.C": "cpp"
+    }
+}
